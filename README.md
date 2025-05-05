@@ -11,7 +11,7 @@ Quickmart Online
 
 Kiondo Market
 
-Works on both static and JavaScript-driven pages using undetected-chromedriver.
+Works on both static and JavaScript-driven pages.
 
 Filters for specific vegetables: onions, tomatoes, and cabbages.
 
